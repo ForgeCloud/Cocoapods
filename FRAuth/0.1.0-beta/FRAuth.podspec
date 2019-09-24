@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   
   s.module_name   = 'FRAuth'
   s.source           = {
-      :http => 'https://github.com/ForgeCloud/Cocoapods/blob/develop/FRAuth/0.1.0-beta/FRAuth.zip'
+      :http => 'https://github.com/ForgeCloud/Cocoapods/blob/develop/FRAuth/0.1.0-beta/FRAuth.zip?raw=true'
   }
   s.vendored_frameworks = "FRAuth.framework"
 end
